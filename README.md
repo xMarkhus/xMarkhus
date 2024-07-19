@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Computer Science Student<br>- Python main language<br>- Currently studying front-end technologies (JS, CSS, HTML), Generative AI</p>
+<p align="left">- Computer Science Student at the Federal University of Piauí<br>- Python main language<br>- Currently studying front-end technologies (JS, CSS, HTML), Generative AI</p>
 
 ###
 
